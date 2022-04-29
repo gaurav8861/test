@@ -2,3 +2,4 @@ From master
 
 adding in branch 2
 adding in branch 2 commit number 2
+adding in branch 2 commit number 3
